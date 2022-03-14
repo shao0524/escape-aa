@@ -144,7 +144,7 @@ body {
   background-image: url("https://khhrdi.kcg.gov.tw/images/kh_bg8.gif");
 }
 .container {
-  font-size: 14px;
+  font-size: 1em;
   margin: 0 auto;
   width: 960px;
 }
@@ -153,15 +153,15 @@ body {
   justify-content: space-between;
   background-color: #150185;
   color: white;
-  padding: 16px 24px;
+  padding: 1em 1.5em;
 }
 .nav-list {
   display: flex;
 }
 .nav-list li a {
   color: white;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 .image {
   width: 100%;
@@ -174,7 +174,7 @@ body {
 }
 .left-list {
   background-color: #83eff1;
-  padding: 16px;
+  padding: 1em;
   border-top: solid 5px #72dddf;
   border-bottom: solid 5px #72dddf;
 }
@@ -183,7 +183,7 @@ body {
 }
 .left-item a {
   color: white;
-  padding: 8px 8px;
+  padding: 0.5em;
   letter-spacing: 2px;
   font-weight: 600;
   text-shadow: -1px -1px 0px #37a4a5, 0px -1px 0px #37a4a5, 1px -1px 0px #37a4a5,
@@ -192,37 +192,37 @@ body {
 }
 .center {
   width: 40%;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 1.25em;
+  padding-right: 1.25em;
 }
 .right-sidebar {
   width: 30%;
 }
 .mb-1 {
-  margin-bottom: 8px;
+  margin-bottom: 0.5em;
 }
 .mb-2 {
-  margin-bottom: 16px;
+  margin-bottom: 1em;
 }
 .mb-3 {
-  margin-bottom: 24px;
+  margin-bottom: 1.5em;
 }
 .btn {
   background-color: #1e57a2;
   color: white;
   border: none;
-  padding: 4px 8px;
+  padding: 0.25em 0.5em;
   cursor: pointer;
 }
 .title {
-  font-size: 20px;
+  font-size: 1.25em;
   border-bottom: 3px solid #2c86aa;
-  padding-bottom: 10px;
+  padding-bottom: 0.625em;
 }
 .news-item {
   border-bottom: 1px solid #ccc;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 0.625em;
+  padding-bottom: 0.625em;
 }
 .news-item a {
   color: #58656c;
@@ -232,8 +232,8 @@ body {
   width: 100%;
 }
 .footer {
-  padding: 16px 24px;
+  padding: 1em 1.5em;
   text-align: center;
   background: linear-gradient(#e6e6e6, white);
-  font-size: 12px;
+  font-size: 0.75em;
 }
